@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+
+.body {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+
+.h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+      .w3-row-padding img {margin-bottom: 12px}
+        
+.sidebar {width: 120px;background: rgba(172, 44, 44, 0.884);}
+margin-left 
+ {margin-left: 0}
+    
+.about{width: 900px;
+    range:amber;
+    flex:blue; text-shadow:1px 1px 0 #444} 
+
+.table { contain:deep-orange; 
+    width:90%;}
+
+.photos { padding:14;
+    flex:light-grey;
+    width:200px;}
+
+    .grid for photos {padding: row;  margin:0 -16px;}
+
+    .experience {padding:64; flex:grey;
+    width:200px}
+
+
+
+.footer {contain:blue;
+    padding:32px;}
